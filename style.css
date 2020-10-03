@@ -1,0 +1,12 @@
+body {
+    background-color: #e9e9e9;
+    columns: red;
+    border: 1px;
+    font-size: 50px;
+}
+
+h2 {
+    background-color: blue;
+    font-size: 50ox;
+    color: yellow;
+}
